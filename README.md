@@ -7,30 +7,41 @@ The original contributions presented in this study are included in the article. 
 ## Python Versions 
 ### For ROI
 opencv-python             4.10.0.82
+
 spectral                  0.23.1
 
 ### For Modeling
-os: Standard library (no version)
-random: Standard library (no version)
-glob: Standard library (no version)
 pandas: 2.2.2
+
 numpy: 1.26.4
+
 torch: 2.6.0
-cv2: Not Installed
+
+cv2: 4.10.0
+
 tqdm: 4.66.4
+
 torch.nn: 2.6.0
+
 torch.nn.functional: 2.6.0
+
 torch.optim: 2.6.0
+
 torch.optim.AdamW: 2.6.0
+
 torch.utils.data: 2.6.0
-PIL: Not Installed
+
+PIL: 10.3.0
+
 torchvision: 0.21.0
+
 matplotlib: 3.8.4
+
 plotly: 5.22.0
+
 optuna: 4.1.0
+
 sklearn: 1.4.2
-re: Standard library (no version)
-collections: Standard library (no version)
 
 ## Files Describtion
 - Classification : Main Code file
